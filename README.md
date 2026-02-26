@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hmm looking at a loosers page</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm wanna be just a nobody....<br><br>- 🔭 I’m working as a looser...<br>- 📚 I'm currently learning to live a happy life...<br>- ⚡ I love to waste my time...</p>
 
 ###
 
