@@ -24,12 +24,11 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-```diff 
-- <p align="left">I'm wanna be just a nobody....<br><br>- 🔭
-```
-```ini
- I’m working as a looser...<br>- 📚 I'm currently learning to live a happy life...<br>- ⚡
- I love to waste my time...</p>
+```diff
+- I’m wanna be just a nobody.... 
+-🔭I’m working as a looser...
+-📚 I’m currently learning to live a happy life...
+-⚡I love to waste my time...
 ```
 ###
 
