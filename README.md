@@ -24,7 +24,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-```
+```diff
 <p align="left">I'm wanna be just a nobody....<br><br>- 🔭
 I’m working as a looser...<br>- 📚 I'm currently learning to live a happy life...<br>- ⚡
  I love to waste my time...</p>
