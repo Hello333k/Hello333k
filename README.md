@@ -19,15 +19,14 @@
 </div>
 
 ###
-
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
+```
 <p align="left">I'm wanna be just a nobody....<br><br>- 🔭 I’m working as a looser...<br>- 📚 I'm currently learning to live a happy life...<br>- ⚡ I love to waste my time...</p>
-
+```
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
