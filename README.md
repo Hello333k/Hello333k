@@ -25,7 +25,7 @@
 
 ###
 ```diff 
-+ <p align="left">I'm wanna be just a nobody....<br><br>- 🔭
+- <p align="left">I'm wanna be just a nobody....<br><br>- 🔭
 ```
 ```ini
 [ I’m working as a looser...<br>- 📚 I'm currently learning to live a happy life...<br>- ⚡]
